@@ -4,12 +4,12 @@ En el ámbito de la banca y las fintech, es crucial gestionar eficientemente las
 
 ## Informacion General
 
-| Campo | Valor |
-|-------|-------|
-| **Tema** | Sólida Experiencia en Frameworks |
-| **Nivel** | junior-l2 |
-| **Tipo** | practical |
-| **Tiempo estimado** | 3-4 horas |
+| Campo               | Valor                            |
+| ------------------- | -------------------------------- |
+| **Tema**            | Sólida Experiencia en Frameworks |
+| **Nivel**           | junior-l2                        |
+| **Tipo**            | practical                        |
+| **Tiempo estimado** | 3-4 horas                        |
 
 ## Fases del Reto
 
@@ -116,4 +116,4 @@ En el ámbito de la banca y las fintech, es crucial gestionar eficientemente las
 
 ---
 
-*Reto generado automaticamente por Challenge Generator - Pragma*
+_Reto generado automaticamente por Challenge Generator - Pragma_
